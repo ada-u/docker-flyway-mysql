@@ -1,5 +1,7 @@
 FROM java:8
 
+MAINTAINER Yuta Adachi <ada-u@ada-u.com>
+
 # Install Flyway
 ENV FLYWAY_VERSION 3.2.1
 
